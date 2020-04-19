@@ -1,0 +1,16 @@
+Package: utildf
+Type: Package
+Title: Utility for Data Frame
+Version: 0.1.0
+Author: Alfredo Alvarado
+Maintainer: The package maintainer <alfredoalvarado@yahoo.com>
+Description: This package includes functions that makes easy to transform data frames
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Imports: tidyverse, rlang
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
